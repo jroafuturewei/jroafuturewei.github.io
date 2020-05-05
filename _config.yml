@@ -10,7 +10,8 @@ description: Advance research in Wireless Technologies 5G 6G
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-avatar: https://github.com/jroafuturewei/jroafuturewei.github.io/blob/master/images/futurewei_logo.png
+#avatar: https://github.com/jroafuturewei/jroafuturewei.github.io/blob/master/images/futurewei_logo.png
+avatar: {{ site.baseurl }}/images/futurewei_logo.png
 #https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
 
 #
