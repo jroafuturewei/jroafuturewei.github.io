@@ -8,7 +8,7 @@ While most of the world focuses on deploying and improving the performance of ea
 ![ai.png](http://24.115.87.109:12345/static2/report/ai2.png)
 
 
-The report covers a wide range of topics as outlined below. Read the full report [HERE](http://24.115.87.109:12345/static2/report/report.pdf "insights")
+The report covers a wide range of topics as outlined below. Read the full report [HERE](http://24.115.87.109:12345/static2/report/report.pdf "full report")
 
 * AI - US university: Berkeley AI Research	
     * Systems Challenges for AI - A Berkeley View	
