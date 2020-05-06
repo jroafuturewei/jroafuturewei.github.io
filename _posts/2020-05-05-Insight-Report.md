@@ -42,8 +42,8 @@ The report covers a wide range of topics as outlined below. The full report can 
     * ATT – Network AI, Open Source	
         * ATT Updates on Network AI	
         * AT&T turns up AI for drones, load balancing, 5G build out	
-        * Cisco embeds more AI, machine learning across the network	
-        * AI in wireless standards (3GPP)	
+    * Cisco embeds more AI, machine learning across the network	
+* AI in wireless standards (3GPP)	
 * AI general – highlights of recent progresses	
 .. o Self-supervised Learning from unlabeled data	
         * Context-based self-supervised learning	
