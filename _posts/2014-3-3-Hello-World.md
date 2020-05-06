@@ -1,11 +1,8 @@
 ---
-layout: post
-title: You're up and running!
+layout: page
+title: AI for Intelligent Connectivity
 published: true
 ---
-AI for Intelligent Connectivity
-================================
-
 While most of the world focuses on deploying and improving the performance of early 5G networks, there has been a growing interests and efforts to establish what 6G networks will bring a decade from now. Among many visionary views, it is widely anticipated that AI will be a key component for the future of communication systems and a key enabler of the intelligent connectivity. 
 This report is centered around the theme of “AI for Intelligent Connectivity”. It focuses on US initiated academic research, industry initiatives and policies (but not exclusively), as illustrated in the following chart, based on public available information.
 
