@@ -8,7 +8,7 @@ This report is centered around the theme of â€œAI for Intelligent Connectivityâ€
 
 ![ai.png](/_posts/ai.png)
 
-The report covers a wide range of topics as outlined below. The full report can be found here: ??????
+The report covers a wide range of topics as outlined below. The full report can be found [here](/images/report.pdf "insights")
 * AI - US university: Berkeley AI Research	
     * Systems Challenges for AI - A Berkeley View	
     * Selected Project Summary	
