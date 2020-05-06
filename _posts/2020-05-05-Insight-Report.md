@@ -3,12 +3,12 @@ layout: page
 title: AI for Intelligent Connectivity
 published: true
 ---
-While zmost of the world focuses on deploying and improving the performance of early 5G networks, there has been a growing interests and efforts to establish what 6G networks will bring a decade from now. Among many visionary views, it is widely anticipated that AI will be a key component for the future of communication systems and a key enabler of the intelligent connectivity. On this report we explore the topic of “AI for Intelligent Connectivity”. The report focuses on US initiated academic research, industry initiatives and policies (but not exclusively), as illustrated in the following chart, based on public available information.
+While most of the world focuses on deploying and improving the performance of early 5G networks, there has been a growing interests and efforts to establish what 6G networks will bring a decade from now. Among many visionary views, it is widely anticipated that AI will be a key component for the future of communication systems and a key enabler of the intelligent connectivity. On this report we explore the topic of “AI for Intelligent Connectivity”. The report focuses on US initiated academic research, industry initiatives and policies (but not exclusively), as illustrated in the following chart, based on public available information.
 
 ![ai.png](http://24.115.87.109:12345/static2/report/ai2.png)
-[I'm an inline-style link](https://www.google.com)
 
-The report covers a wide range of topics as outlined below. Read the full report [HERE](report.pdf "insights")
+
+The report covers a wide range of topics as outlined below. Read the full report [HERE](http://24.115.87.109:12345/static2/report/report.pdf "insights")
 
 * AI - US university: Berkeley AI Research	
     * Systems Challenges for AI - A Berkeley View	
