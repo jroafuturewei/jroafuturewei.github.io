@@ -46,17 +46,12 @@ The report covers a wide range of topics as outlined below. Read the full report
     * Cisco embeds more AI, machine learning across the network	
 * AI in wireless standards (3GPP)	
 * AI general – highlights of recent progresses	
-.. o Self-supervised Learning from unlabeled data	
+    * Self-supervised Learning from unlabeled data	
         * Context-based self-supervised learning	
         * Temporal-based self-supervised learning	
         * Contrastive-based self-supervised learning	
     * Optical computing and quantum computing	
 * US ICT Policies	
-.. o ATIS “Call to Action – Promoting U.S. Leadership on The Path to 6G”
-.. o AT&T, Verizon part of new 31-member Open RAN Policy Coalition
+    * ATIS “Call to Action – Promoting U.S. Leadership on The Path to 6G”
+    * AT&T, Verizon part of new 31-member Open RAN Policy Coalition
 
-ext you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
