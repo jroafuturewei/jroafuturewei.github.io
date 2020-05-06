@@ -38,7 +38,7 @@ The report covers a wide range of topics as outlined below. The full report can 
     * Qualcomm on 5G + AI	
         * AI is making 5G better — in the network and on the device	
         * 5G is making AI-powered experiences better	
-        * A new computing paradigm: distributed learning over wireless		
+        * A new computing paradigm: distributed learning over wireless	
     * ATT – Network AI, Open Source	
         * ATT Updates on Network AI	
         * AT&T turns up AI for drones, load balancing, 5G build out	
